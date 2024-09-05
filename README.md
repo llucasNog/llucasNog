@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="166" src="https://64.media.tumblr.com/af24fe79a16dc136ff2950e4e1ed47a5/dd9587a7dda0cc4b-26/s400x600/22a415060da5b34d5cadc553cf63e3062d3ebb3b.jpg"  />
+<img align="right" height="166" src="https://static.wikia.nocookie.net/enajoelg/images/e/ea/Ena_talking.gif/revision/latest/scale-to-width-down/250?cb=20220527174213"  />
 
 ###
 
