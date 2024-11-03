@@ -28,4 +28,7 @@
   <a href="https://www.instagram.com/luuka_dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" style="border-radius: 5px;" />
   </a>
+  <a href="https://www.linkedin.com/in/lucas-nogueira-silva-044315311/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn logo" style="border-radius: 5px;" />
+  </a>
 </div>
